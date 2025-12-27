@@ -28,8 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-
-HTML
+~~~
 
 <!DOCTYPE html>
 <html lang="en">
@@ -176,7 +175,7 @@ text-align: center;
 </footer>
 </body>
 </html>
-
+~~~
 
 
 ## OUTPUT:
