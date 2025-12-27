@@ -182,6 +182,12 @@ text-align: center;
 ## OUTPUT:
 
 <img width="1523" height="858" alt="Screenshot 2025-12-27 142339" src="https://github.com/user-attachments/assets/676010a7-bfb5-487d-892e-9ecb5194bf9a" />
+<img width="1515" height="847" alt="Screenshot 2025-12-27 142402" src="https://github.com/user-attachments/assets/98561870-132e-4437-8aa6-576cc91f2162" />
+<img width="1500" height="791" alt="Screenshot 2025-12-27 142419" src="https://github.com/user-attachments/assets/fe8be449-52c5-4940-9b5d-fe5c6becbf0d" />
+<img width="1507" height="738" alt="Screenshot 2025-12-27 142435" src="https://github.com/user-attachments/assets/ab1e8deb-62d0-42e0-ad5c-a28e6ab346a3" />
+
+
+
 
 
 
